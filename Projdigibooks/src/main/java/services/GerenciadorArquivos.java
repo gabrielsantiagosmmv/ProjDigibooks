@@ -1,5 +1,5 @@
 // Implementar GerenciadorArquivos.java - Parte 1
-package digibooks.services;
+package services;
 
 import models.Livro;
 import digibooks.models.*;

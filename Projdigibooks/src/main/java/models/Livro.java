@@ -1,4 +1,4 @@
-package digibooks.models;
+package models;
 
 public class Livro {
     private int idLivro;
