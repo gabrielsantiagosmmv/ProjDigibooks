@@ -1,5 +1,5 @@
 // Implementar Categoria.java
-package digibooks.models;
+package models;
 
 public class Categoria {
     private int idCategoria;
