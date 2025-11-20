@@ -1,13 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package models;
-
-/**
- *
- * @author Gabriel
- */
 public class Movimentacao {
+    private int idMovimentacao;
+    private int idLivro;
+    private String tipoMovimentacao;
+    private String responsavel;
+    private LocalDate data;
+    private String observacao;
     
+    // Construtor, Getters e Setters
 }
