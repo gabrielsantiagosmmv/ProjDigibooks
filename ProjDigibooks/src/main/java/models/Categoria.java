@@ -9,7 +9,7 @@ public class Categoria {
 }
 
 // Implementar Movimentacao.java
-package digibooks.models;
+package models;
 
 import java.time.LocalDate;
 
