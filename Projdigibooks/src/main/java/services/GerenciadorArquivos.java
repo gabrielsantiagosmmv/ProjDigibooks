@@ -172,5 +172,3 @@ public class GerenciadorArquivos {
         return maior + 1;
     }
 }
-
-}
